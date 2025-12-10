@@ -1,7 +1,7 @@
 # Disclaimer
 Using self-bots is against discord ToS, this script should not be run.
 # Discord-Member-Scraper-Selfbot
-A simple discord server user/member scraper selfbot <br/>
+A simple discord server member/user scraper selfbot <br/>
 Saves a list of user ids to a json file. <br/>
 ## Features
 - Choose between scraping current members or all users that have been in the server.
